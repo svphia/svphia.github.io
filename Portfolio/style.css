@@ -1,0 +1,41 @@
+@charset "UTF-8";
+h1{
+    color: white;
+}
+body{
+    background-color: #279284;
+    
+}
+
+table{
+    background-color: rgb(91, 178, 154);
+    border: 1px solid black;
+    width: 600px;
+    border-collapse: collapse;
+}
+tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+img{
+    border: 3px solid rgb(26, 95, 73);
+    padding: 10px;
+    object-fit: cover;
+    width: 200px;
+    height: 150px;
+    
+}
+.postionimg{
+    text-align: center;
+}
+caption{
+    color: white;
+    caption-side: bottom;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(27, 85, 74)
+}
